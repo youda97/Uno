@@ -1,2 +1,2 @@
 # Uno
-A program using lists, stacks and queues in C# to efficiently recreate Uno mechanics
+A program using lists, stacks and queues in C# that simulates an uno game between multiple players
